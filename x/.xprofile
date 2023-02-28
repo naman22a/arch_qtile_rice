@@ -1,0 +1,4 @@
+dbus-launch --sh-syntax --exit-with-session; pipewire &
+xrandr -s 1360x768
+xset s off
+xset s noblank
